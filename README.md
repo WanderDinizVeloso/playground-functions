@@ -1,4 +1,4 @@
-# Projeto Lessons Learned
+# Projeto Playgroud Functions
 
 Projeto desenvolvido durante o Curso de Desenvolvimento WEB, Turma 12, da [trybe](https://www.betrybe.com/), onde desenvolvi minhas habilidades em JavaScript, na criação de várias funções.
 
